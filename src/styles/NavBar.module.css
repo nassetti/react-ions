@@ -1,0 +1,26 @@
+.NavBar {
+    background-color: lightcoral;
+    text-decoration: none;
+}
+
+i {
+    padding: 5px;
+    color: whitesmoke;
+}
+
+i:hover {
+    cursor: pointer;
+    transition: color ease-in-out 0.25s;
+    color: lightseagreen;
+}
+
+.NavLink {
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.Active i {
+    color: lightseagreen;
+}
+

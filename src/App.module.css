@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+a:hover {
+  text-decoration: none;
+  color: whitesmoke;
+  transition: color ease-in-out 0.3s;
+}
+
