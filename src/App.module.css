@@ -1,7 +1,7 @@
 .App {
-  text-align: center;
+  font-family: "DM Sans", sans-serif;
+  background-color: #f8f8f8;
   min-height: 100vh;
-  background-color: lightgray;
 }
 
 .Main {
@@ -9,8 +9,10 @@
 }
 
 .Content {
+  background-color: #ffffff;
   padding: 10px;
   border-radius: 2px;
+  border: 1px solid #dadadf;
 }
 
 .FillerImage {
